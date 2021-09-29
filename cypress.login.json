@@ -1,0 +1,4 @@
+{
+  "pluginsFile": "src/plugins/index.js",
+  "testFiles": "auth/login.spec.js"
+}
